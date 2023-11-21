@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A update",
+      "username": "nguyenvana",
+      "email": "nguyenvana@example.com",
+      "phone": "123-456-7890",
+      "company": "ABC Company"
+    },
+    {
+      "id": 2,
+      "name": "Tran Thi B",
+      "username": "tranthib",
+      "email": "tranthib@example.com",
+      "phone": "987-654-3210",
+      "company": "XYZ Corporation"
+    },
+    {
+      "id": 3,
+      "name": "Le Van C",
+      "username": "levanc",
+      "email": "levanc@example.com",
+      "phone": "555-123-4567",
+      "company": "123 Industries"
+    },
+    {
+      "id": 4,
+      "name": "Pham Van D",
+      "username": "phamvand",
+      "email": "phamvand@example.com",
+      "phone": "777-888-9999",
+      "company": "DEF Limited"
+    },
+    {
+      "id": 5,
+      "name": "Vo Thi E",
+      "username": "vothie",
+      "email": "vothie@example.com",
+      "phone": "333-999-7777",
+      "company": "LMN Enterprises"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "This is the body of post 1. Lorem ipsum dolor sit amet.",
+      "publishedAt": "2023-01-01T10:00:00Z",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is the body of post 2. Lorem ipsum dolor sit amet.",
+      "publishedAt": "2023-02-15T14:30:00Z",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "This is the body of post 3. Lorem ipsum dolor sit amet.",
+      "publishedAt": "2023-03-20T08:45:00Z",
+      "userId": 3
+    }
+  ]
+}
